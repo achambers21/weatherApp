@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": -71.2495,
+        "lat": 42.1668
+    },
+    "weather": [{
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+    }],
+    "base": "stations",
+    "main": {
+        "temp": 286.01,
+        "feels_like": 284.45,
+        "temp_min": 282.43,
+        "temp_max": 287.94,
+        "pressure": 1017,
+        "humidity": 42
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.09,
+        "deg": 360
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1651339071,
+    "sys": {
+        "type": 2,
+        "id": 2002693,
+        "country": "US",
+        "sunrise": 1651311712,
+        "sunset": 1651362141
+    },
+    "timezone": -14400,
+    "id": 4945455,
+    "name": "Norfolk",
+    "cod": 200
+}
